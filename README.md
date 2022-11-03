@@ -1,2 +1,2 @@
 # biyubi-clinic-config-server
-Biyubi Clinic Config Server 
+Spring BOot config Server for Biyubi Clinic App Project
